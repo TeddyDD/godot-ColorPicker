@@ -1,5 +1,7 @@
 #Color Picker
 
+ > Godot version >= 2.0 have all features of this plugin so its not longer needed.
+
 Simple plugin for [Godot game engine](http://www.godotengine.org)
 It makes easy to generate Color class constructors for use in your code.
 
